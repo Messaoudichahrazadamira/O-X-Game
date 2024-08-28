@@ -8,7 +8,7 @@
 }
 
 .title{
-    background: #f25;
+    background: rgb(147, 76, 167);
     padding: 5px 0;
     margin: 5px 0;
 }
@@ -20,7 +20,7 @@ span{
 .square{
     width: 80px;
     height: 80px;
-    background: #f25;
+    background: rgb(147, 76, 167);
     float: left;
     margin: 2px;
     font-size: 50px;
